@@ -67,6 +67,7 @@ const IletisimFormu = () => {
       [e.target.name]: e.target.value
     });
   };
+  
 
   return (
     <div className="App">
